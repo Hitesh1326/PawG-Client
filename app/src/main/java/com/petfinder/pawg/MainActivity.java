@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnSearch;
     ImageView lookingImage, homepageImage, searchLineImage;
 //git test
+    //ghvgvg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
